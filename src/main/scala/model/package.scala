@@ -34,5 +34,5 @@ package object model {
   final val tileAlpha = 127
   
   //final val resourcesPath = "/main/scala/resources" 
-  final val resourcesPath = "hdfs://172.25.255.139:8080/observatory/resources" 
+  final val resourcesPath = "hdfs://172.25.255.139:8020/observatory/resources" 
 }
