@@ -1,0 +1,7 @@
+target/
+bin/
+src/main/scala/resources/
+.settings/
+.classpath
+.project
+.cache-main
